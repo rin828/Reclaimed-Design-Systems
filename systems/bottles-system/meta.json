@@ -1,0 +1,28 @@
+{
+  "slug": "bottles-system",
+  "title": "Multi-Bottle System",
+  "authors": [
+    {
+      "name": "Andrea Rossi",
+      "affiliation": "Reclaim Seoul"
+    }
+  ],
+  "license": {
+    "value": "CC-BY-4.0"
+  },
+  "description": {
+    "short": "A system for reusing bottles with different sizes",
+    "long": ""
+  },
+  "tags": [],
+  "units": "",
+  "metrics": {
+    "parts_total": 2,
+    "rules_total": 9
+  },
+  "files": {
+    "aggregation": "bottles-system/aggregation.json",
+    "meta": "bottles-system/meta.json",
+    "thumbnail": "bottles-system/00_thumb.png"
+  }
+}
