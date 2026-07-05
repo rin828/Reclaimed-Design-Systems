@@ -13,7 +13,7 @@ Collection of reusable Aggregation systems for the Wasp Framework
 <table>
   <tr>
     <td width="90">
-      <img src="systems/bottles-system/screenshots/00_thumb.png" width="72" />
+      <img src="systems/bottles-system/00_thumb.png" width="72" />
     </td>
     <td>
       <strong><a href="systems/bottles-system">bottles-system</a></strong><br/>

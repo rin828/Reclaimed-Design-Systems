@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T09:27:05.048Z",
+  "generated_at": "2026-07-05T09:32:34.604Z",
   "count": 1,
   "systems": [
     {
@@ -14,7 +14,7 @@
         "value": "CC-BY-4.0"
       },
       "author": "",
-      "thumbnail": "systems/bottles-system/screenshots/00_thumb.png",
+      "thumbnail": "systems/bottles-system/00_thumb.png",
       "aggregation_url": "systems/bottles-system/aggregation.json",
       "meta_url": "systems/bottles-system/meta.json"
     }
